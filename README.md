@@ -1,4 +1,4 @@
-\📈 Sales Forecasting Using Time Series Analysis
+Sales Forecasting Using Time Series Analysis
 
 
 
@@ -6,7 +6,7 @@ This project predicts future product sales using historical sales data with Time
 
 
 
-\ 🔥 Features
+Features
 
 
 
@@ -23,8 +23,7 @@ This project predicts future product sales using historical sales data with Time
 \- Compare predicted vs actual values
 
 
-
-\🧠 Machine Learning / Stats Used
+Machine Learning / Stats Used
 
 
 
@@ -55,6 +54,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Prophet
 pip install -r requirements.txt
 
 jupyter notebook Sales\_Forecasting\_Time\_Series.ipynb
+
 
 
 
